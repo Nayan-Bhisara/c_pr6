@@ -36,8 +36,8 @@ void main(){
 			y=0;
 		}
 	}
-	(y==1)?printf("given name is palindome..")
-			:printf("given name is note palindome..");
+	(y==1)?printf("given name is Palindrome..")
+			:printf("given name is note Palindrome..");
 }
 
 
